@@ -10,7 +10,7 @@ function Error() {
   console.log(featuredProducts)
   return (
     <Wrapper>
-      <div className="container">
+      <div className="container ">
         <div>
           <h2>404</h2>
           <h3>OH! You're lost</h3>
